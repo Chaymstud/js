@@ -18,7 +18,7 @@ const slides = [
     }
 ];
 
-//Initialisation de la variable à 0, index de la diapositive affichée
+// ici Initialisation de la variable à 0, index de la diapositive affichée
 let currentSlide = 0;
 
 //Selection des éléments
